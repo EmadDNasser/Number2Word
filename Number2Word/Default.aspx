@@ -5,8 +5,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     
-    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/CSS/bootstrap.min.css" rel="stylesheet" />
     <link href="~/iconum.ico" rel="shortcut icon" type="image/x-icon" />
+   
     <style>
         #WordTxtAr, #WordTxtEn{
             font-size: Large;
@@ -34,17 +35,6 @@
         }
     </style>
 
-    <script type="text/javascript">
-        function validateQuantity(field) {
-            if (field.value == "") { // is an integer
-                alert("Please enter number greater than 0 only");
-                return false;
-            }
-
-            return true;
-        }
-    </script>
-
     <title>Numbers to Words</title>
 </head>
 <body>
@@ -54,7 +44,6 @@
 
              <div class="container" style="padding-top:5px">
                  <div class="text-center">
-                   <img src="images/logo.jpg" width="250" height="75" />
                  <h2 style="font-family:'Times New Roman'; color:darkblue; text-align:center; margin-bottom:20px"><strong> Convert Numbers to Words</strong></h2>
 
                  </div>
@@ -119,7 +108,7 @@
     </form>
     <hr />
             <footer style="text-align:center">
-                <p>&copy; <%: DateTime.Now.Year %> - Powerd by: MIS-Applications</p>
+                <p>&copy; <%: DateTime.Now.Year %> - Powerd by: Emad Darab Nasser</p>
             </footer>
 </body>
 </html>
