@@ -1,0 +1,139 @@
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\csc.exe
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\csc.exe.config
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\csc.rsp
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\csi.exe
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\csi.rsp
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.CSharp.Core.targets
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\System.AppContext.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\System.Collections.Immutable.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\System.IO.FileSystem.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\System.Reflection.Metadata.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\vbc.exe
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\vbc.exe.config
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\vbc.rsp
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\VBCSCompiler.exe
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\VBCSCompiler.exe.config
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\Number2Word.dll.config
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\Number2Word.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\Number2Word.pdb
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\obj\Debug\Number2Word.dll
+\\10.32.193.222\c$\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\obj\Debug\Number2Word.pdb
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\csc.exe
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\csc.exe.config
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\csc.rsp
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\csi.exe
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\csi.rsp
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\System.AppContext.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\vbc.exe
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\vbc.exe.config
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\vbc.rsp
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\VBCSCompiler.exe
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\Number2Word.dll.config
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\Number2Word.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\Number2Word.pdb
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\obj\Debug\Number2Word.csprojAssemblyReference.cache
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\obj\Debug\Number2Word.csproj.CopyComplete
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\obj\Debug\Number2Word.dll
+C:\Users\EmadD\Desktop\New folder (2)\Number2Word\Number2Word\obj\Debug\Number2Word.pdb
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\csc.exe
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\csc.exe.config
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\csc.rsp
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\csi.exe
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\csi.rsp
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\System.AppContext.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\vbc.exe
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\vbc.exe.config
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\vbc.rsp
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\VBCSCompiler.exe
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\Number2Word.dll.config
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\Number2Word.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\Number2Word.pdb
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\obj\Debug\Number2Word.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\obj\Debug\Number2Word.pdb
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\obj\Debug\Number2Word.csproj.CopyComplete
+C:\Users\EmadD\Desktop\Number2Word\Number2Word\obj\Debug\Number2Word.csprojAssemblyReference.cache
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\csc.exe
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\csc.exe.config
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\csc.rsp
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\csi.exe
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\csi.rsp
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\System.AppContext.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\System.Collections.Immutable.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\System.IO.FileSystem.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\System.Reflection.Metadata.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\vbc.exe
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\vbc.exe.config
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\vbc.rsp
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\VBCSCompiler.exe
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\roslyn\VBCSCompiler.exe.config
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\Number2Word.dll.config
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\Number2Word.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\Number2Word.pdb
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\obj\Debug\Number2Word.csproj.AssemblyReference.cache
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\obj\Debug\Number2Word.csproj.CoreCompileInputs.cache
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\obj\Debug\Number2Word.csproj.CopyComplete
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\obj\Debug\Number2Word.dll
+G:\Emad\MyFiles\Emad\Number2Word\Number2Word\Number2Word\obj\Debug\Number2Word.pdb
